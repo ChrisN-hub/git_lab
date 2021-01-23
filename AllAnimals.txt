@@ -2,19 +2,19 @@ Favorite Birds
 1 Budgies_Chris
 2  
 3 Parrots_Alton
-4
+4 Owls_Kemar
 Mammals
 1 Monkey_Chris
 2 
 3 Monkey_Alton
-4
+4 Deer_Kemar
 Fish
 1 Salmon_Chris
 2
 3 Goldfish_Alton
-4
+4 Snapper_Kemar
 Reptiles
 1 Crocodile_Chris
 2
 3 Lizard_Alton
-4
+4 Snake_Kemar
