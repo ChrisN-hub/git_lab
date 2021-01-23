@@ -1,20 +1,20 @@
 Favorite Birds
 1 Budgies_Chris
-2 
-3
+2  
+3 Parrots_Alton
 4
 Mammals
 1 Monkey_Chris
-2
-3
+2 
+3 Monkey_Alton
 4
 Fish
 1 Salmon_Chris
 2
-3
+3 Goldfish_Alton
 4
 Reptiles
 1 Crocodile_Chris
 2
-3
+3 Lizard_Alton
 4
